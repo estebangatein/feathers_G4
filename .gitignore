@@ -2,6 +2,9 @@
 aml-2025-feathers-in-focus/
 .DS_Store
 
+resnet18Skinny.pth
+
+
 # model
 transfer_learning/saved_model/model.safetensors
 transfer_learning/bazar_pretrained/saved_model_V2/
