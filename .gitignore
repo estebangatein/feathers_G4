@@ -4,11 +4,13 @@ aml-2025-feathers-in-focus/
 
 # model
 transfer_learning/saved_model/model.safetensors
+transfer_learning/bazar_pretrained/saved_model_V2/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+
 
 # C extensions
 *.so
