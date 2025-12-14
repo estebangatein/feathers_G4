@@ -1,5 +1,5 @@
 # feathers_G4
-
+```
 ├── BEiT_pretrained.ipynb
 ├── ResNet_skinny.ipynb
 ├── experiments
@@ -21,3 +21,4 @@
     ├── multimodal_resnet18_skinny.pth
     ├── multimodal_resnet18_skinny_best.pth
     └── resnet18Skinny.pth
+```
